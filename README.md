@@ -58,6 +58,7 @@ stockflow/
 └── README.md
 
 ⚙️ Setup Instructions
+
 1️⃣ Clone Repository
 git clone https://github.com/Priyanshu87571/StockFlow.git
 cd StockFlow
@@ -192,6 +193,7 @@ Frontend dashboard (React)
 
 Priyanshu Raj
 Backend Developer | Python | Flask | SQL
+
 GitHub: https://github.com/Priyanshu87571
 
 ⭐ If you like this project
