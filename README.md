@@ -39,6 +39,7 @@ Containerization: Docker & Docker Compose
 Testing: Pytest
 
 📂 Project Structure
+
 stockflow/
 │
 ├── app/
