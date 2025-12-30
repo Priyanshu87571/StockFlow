@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+instance/
+.env
+stockflow.db
+migrations/__pycache__/
