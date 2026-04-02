@@ -10,7 +10,7 @@ StockFlow is a B2B SaaS backend application designed to help small and medium bu
 
 * Product & Inventory Management
 
-📉 Low-stock alerts based on sales velocity
+* Low-stock alerts based on sales velocity
 
 🏷️ Supplier management & reorder requests
 
