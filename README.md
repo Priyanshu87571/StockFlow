@@ -1,4 +1,4 @@
- StockFlow – B2B Inventory Management System
+# StockFlow – B2B Inventory Management System
 
 StockFlow is a B2B SaaS backend application designed to help small and medium businesses manage inventory across multiple warehouses, track low-stock alerts, manage suppliers, and handle reorder workflows securely.
 
