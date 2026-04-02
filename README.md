@@ -6,7 +6,7 @@ StockFlow is a B2B SaaS backend application designed to help small and medium bu
 
 * JWT-based Authentication
 
-🏢 Multi-company & multi-warehouse support
+* Multi-company & multi-warehouse support
 
 📦 Product & Inventory Management
 
