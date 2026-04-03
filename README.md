@@ -22,7 +22,7 @@ StockFlow is a B2B SaaS backend application designed to help small and medium bu
 
  Unit test structure with Pytest
 
-🛠️ Tech Stack
+## Tech Stack
 
 Backend: Python, Flask
 
