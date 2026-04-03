@@ -88,7 +88,7 @@ Server runs at:
 
 http://127.0.0.1:5000
 
-🔐 Authentication
+## Authentication
 Login API
 
 POST /api/auth/login
