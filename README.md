@@ -58,7 +58,7 @@ stockflow/
 ├── requirements.txt
 └── README.md
 
-⚙️ Setup Instructions
+## Setup Instructions
 
 1️⃣ Clone Repository
 git clone https://github.com/Priyanshu87571/StockFlow.git
