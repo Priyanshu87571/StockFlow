@@ -109,7 +109,7 @@ Use token in headers:
 
 Authorization: Bearer JWT_TOKEN
 
-📦 Create Product API
+## Create Product API
 
 POST /api/products
 
