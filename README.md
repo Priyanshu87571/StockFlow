@@ -122,7 +122,7 @@ POST /api/products
   "product_type": "standard"
 }
 
-🚨 Low Stock Alerts API
+## Low Stock Alerts API
 
 GET /api/companies/{company_id}/alerts/low-stock
 
