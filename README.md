@@ -18,7 +18,7 @@ StockFlow is a B2B SaaS backend application designed to help small and medium bu
 
 * Dockerized setup
 
-🗄️ Database migrations using Flask-Migrate
+* Database migrations using Flask-Migrate
 
 🧪 Unit test structure with Pytest
 
