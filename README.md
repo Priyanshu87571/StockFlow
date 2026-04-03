@@ -190,7 +190,7 @@ Cloud deployment (AWS / GCP)
 
 Frontend dashboard (React)
 
-👤 Author
+## 👤 Author
 
 Priyanshu Raj
 Backend Developer | Python | Flask | SQL
