@@ -147,7 +147,7 @@ Sample Response
   "total_alerts": 1
 }
 
-📦 Reorder Request API
+## Reorder Request API
 
 POST /api/reorders
 
