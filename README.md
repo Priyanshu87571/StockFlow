@@ -158,7 +158,7 @@ POST /api/reorders
   "quantity": 50
 }
 
-🐳 Docker Setup
+## Docker Setup
 docker-compose up --build
 
 🧪 Run Tests
