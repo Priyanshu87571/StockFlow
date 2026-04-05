@@ -164,7 +164,7 @@ docker-compose up --build
 ### Run Tests
 pytest
 
-🧠 Design Decisions & Assumptions
+### Design Decisions & Assumptions
 
 Inventory is modeled as a relationship between Product and Warehouse
 
