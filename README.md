@@ -161,7 +161,7 @@ POST /api/reorders
 ## Docker Setup
 docker-compose up --build
 
-🧪 Run Tests
+### Run Tests
 pytest
 
 🧠 Design Decisions & Assumptions
