@@ -178,7 +178,7 @@ Sales velocity determines days until stockout
 
 One primary supplier per product (extendable)
 
-📈 Future Improvements
+### Future Improvements
 
 Role-based access control (Admin, Manager)
 
