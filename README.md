@@ -47,7 +47,7 @@ stockflow/
 │   ├── config.py          
 │   ├── models.py         
 │   ├── routes.py          
-│   └── utils.py           # Helper functions
+│   └── utils.py           
 │
 ├── migrations/            # Database migrations
 ├── tests/                 # Unit tests
