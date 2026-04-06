@@ -43,7 +43,7 @@ Testing: Pytest
 stockflow/
 │
 ├── app/
-│   ├── __init__.py        # App factory
+│   ├── __init__.py       
 │   ├── config.py          # Configuration
 │   ├── models.py          # Database models
 │   ├── routes.py          # API routes
