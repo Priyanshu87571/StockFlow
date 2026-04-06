@@ -52,7 +52,7 @@ stockflow/
 ├── migrations/            
 ├── tests/                 
 │
-├── run.py                 # Application entry point
+├── run.py                 
 ├── Dockerfile
 ├── docker-compose.yml
 ├── requirements.txt
