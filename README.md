@@ -49,7 +49,7 @@ stockflow/
 │   ├── routes.py          
 │   └── utils.py           
 │
-├── migrations/            # Database migrations
+├── migrations/            
 ├── tests/                 # Unit tests
 │
 ├── run.py                 # Application entry point
