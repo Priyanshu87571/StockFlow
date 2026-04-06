@@ -45,7 +45,7 @@ stockflow/
 ├── app/
 │   ├── __init__.py       
 │   ├── config.py          
-│   ├── models.py          # Database models
+│   ├── models.py         
 │   ├── routes.py          # API routes
 │   └── utils.py           # Helper functions
 │
