@@ -50,7 +50,7 @@ stockflow/
 │   └── utils.py           
 │
 ├── migrations/            
-├── tests/                 # Unit tests
+├── tests/                 
 │
 ├── run.py                 # Application entry point
 ├── Dockerfile
