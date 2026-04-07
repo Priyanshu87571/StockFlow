@@ -43,8 +43,10 @@ Testing: Pytest
 stockflow/
 │
 ├── app/
-│   ├── __init__.py       
-│   ├── config.py          
+│   ├── __init__.py 
+
+│   ├── config.py
+
 │   ├── models.py         
 │   ├── routes.py          
 │   └── utils.py           
