@@ -50,10 +50,12 @@ stockflow/
 
 │   ├── models.py 
 
-│   ├── routes.py          
+│   ├── routes.py
+
 │   └── utils.py           
 │
-├── migrations/            
+├── migrations/
+
 ├── tests/                 
 │
 ├── run.py                 
