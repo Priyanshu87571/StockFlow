@@ -63,7 +63,9 @@ stockflow/
 ├── Dockerfile
 
 ├── docker-compose.yml
+
 ├── requirements.txt
+
 └── README.md
 
 ## Setup Instructions
