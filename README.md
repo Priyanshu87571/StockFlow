@@ -58,8 +58,10 @@ stockflow/
 
 ├── tests/                 
 │
-├── run.py                 
+├── run.py
+
 ├── Dockerfile
+
 ├── docker-compose.yml
 ├── requirements.txt
 └── README.md
